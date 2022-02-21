@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMYSQLFinal</string>
+    <array name="teams">
+
+        <item>Avengers</item>
+        <item>x-Men</item>
+        <item>Liga Da Justiça</item>
+        <item>Esquadrão Suicida</item>
+
+</array>
+</resources>
